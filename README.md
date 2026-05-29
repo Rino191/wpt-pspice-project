@@ -10,12 +10,13 @@ This project analyzes a Wireless Power Transfer (WPT) system using PSpice simula
 - Analyze transfer efficiency
 - Observe voltage and current waveforms
 
-## Tools
+## Tools used
 
 - PSpice
 
+## Thesis
 
-## Results
+The full thesis is available in PDF format.
 
 ### Circuit
 
