@@ -12,8 +12,8 @@ This project analyzes a Wireless Power Transfer (WPT) system using PSpice simula
 
 ## Tools
 
-- Cadence PSpice
-- MATLAB (optional)
+- PSpice
+
 
 ## Results
 
