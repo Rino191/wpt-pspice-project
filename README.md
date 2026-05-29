@@ -20,7 +20,7 @@ The full thesis is available in PDF format.
 
 ### Circuit
 
-![Circuit](images/schematic.png)
+![Circuit](images/circuit.jpg)
 
 ### Simulation Results
 
